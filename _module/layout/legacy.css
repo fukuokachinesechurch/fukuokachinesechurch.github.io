@@ -1,7 +1,0 @@
-@charset "utf-8";
-/* legacy.css　
---------------------------------------------------------- */
-@import "common.css";
-@import "pagelayout.css";
-
-.menuh div	{ display:inline;}
