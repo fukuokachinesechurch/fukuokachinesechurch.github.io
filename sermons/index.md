@@ -29,3 +29,5 @@ layout: default
 [11 拒绝恩典怎么办？（十）](https://www.dropbox.com/s/6p8or6rg2o6sm9j/11%E6%8B%92%E7%BB%9D%E6%81%A9%E5%85%B8%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%29.m4a?dl=0)  
 
 [12 拒绝征战怎么办？(十一)](https://www.dropbox.com/s/g4fauy72lnr5dg9/12%E6%8B%92%E7%BB%9D%E4%BA%89%E6%88%98%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E4%B8%80%29.mp3?dl=0)
+
+[13若犯了罪怎么办(十二)](https://www.dropbox.com/s/2ii5l0qtr5leqgr/13%E8%8B%A5%E7%8A%AF%E4%BA%86%E7%BD%AA%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E4%BA%8C%29.m4a?dl=0)
