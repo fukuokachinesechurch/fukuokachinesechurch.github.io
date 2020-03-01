@@ -18,7 +18,7 @@ layout: default
 [06 作好牧者怎么办？（五）](https://www.dropbox.com/s/boli4sds6g5xhix/06%E4%BD%9C%E5%A5%BD%E7%89%A7%E8%80%85%E6%80%8E%E4%B9%88%E5%8A%9E%28%E4%BA%94%29.m4a?dl=0)   
 
 
-[07 若侍奉主怎么办？（六）](https://www.dropbox.com/s/govbqbgo3z2w264/07%E8%8B%A5%E4%BA%8B%E5%A5%89%E4%B8%BB%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%85%AD%29.m4a?dl=0)  
+[07 若侍奉主怎么办？（六）](https://www.dropbox.com/s/xe1ndm8a74cn118/07%E8%8B%A5%E4%BA%8B%E5%A5%89%E4%B8%BB%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%85%AD%29.m4a?dl=0)  
 
 [08 若建圣殿怎么办？（七）](https://www.dropbox.com/s/i442069y12e05ma/08%E8%8B%A5%E5%BB%BA%E5%9C%A3%E6%AE%BF%E6%80%8E%E4%B9%88%E5%8A%9E%28%E4%B8%83%29.mp3?dl=0)
 
@@ -30,4 +30,4 @@ layout: default
 
 [12 拒绝征战怎么办？(十一)](https://www.dropbox.com/s/g4fauy72lnr5dg9/12%E6%8B%92%E7%BB%9D%E4%BA%89%E6%88%98%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E4%B8%80%29.mp3?dl=0)
 
-[13若犯了罪怎么办(十二)](https://www.dropbox.com/s/2ii5l0qtr5leqgr/13%E8%8B%A5%E7%8A%AF%E4%BA%86%E7%BD%AA%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E4%BA%8C%29.m4a?dl=0)
+[13 若犯了罪怎么办(十二)](https://www.dropbox.com/s/2ii5l0qtr5leqgr/13%E8%8B%A5%E7%8A%AF%E4%BA%86%E7%BD%AA%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E4%BA%8C%29.m4a?dl=0)
