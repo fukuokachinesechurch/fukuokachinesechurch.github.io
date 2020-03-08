@@ -30,4 +30,7 @@ layout: default
 
 [12 拒绝征战怎么办？(十一)](https://www.dropbox.com/s/g4fauy72lnr5dg9/12%E6%8B%92%E7%BB%9D%E4%BA%89%E6%88%98%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E4%B8%80%29.mp3?dl=0)
 
-[13 若犯了罪怎么办(十二)](https://www.dropbox.com/s/2ii5l0qtr5leqgr/13%E8%8B%A5%E7%8A%AF%E4%BA%86%E7%BD%AA%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E4%BA%8C%29.m4a?dl=0)
+[13 若犯了罪怎么办？(十二)](https://www.dropbox.com/s/2ii5l0qtr5leqgr/13%E8%8B%A5%E7%8A%AF%E4%BA%86%E7%BD%AA%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E4%BA%8C%29.m4a?dl=0)  
+
+[14 家门不幸怎么办？（十三)][https://www.dropbox.com/s/uhzi6pgtx6lsddu/14%E5%AE%B6%E9%97%A8%E4%B8%8D%E5%B9%B8%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E4%B8%89%29.m4a?dl=0]
+
