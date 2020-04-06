@@ -34,5 +34,15 @@ layout: default
 
 [14 家门不幸怎么办？（十三)](https://www.dropbox.com/s/uhzi6pgtx6lsddu/14%E5%AE%B6%E9%97%A8%E4%B8%8D%E5%B9%B8%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E4%B8%89%29.m4a?dl=0)
 
-[15 心里纠结怎么办？（十四)](https://www.dropbox.com/s/oonjjbzsma2k9kr/15%E5%BF%83%E9%87%8C%E7%BA%A0%E7%BB%93%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E5%9B%9B%29.mp3?dl=0)
+[15 心里纠结怎么办？（十四)](https://www.dropbox.com/s/oonjjbzsma2k9kr/15%E5%BF%83%E9%87%8C%E7%BA%A0%E7%BB%93%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E5%9B%9B%29.mp3?dl=0)  
+
+[16 引狼入室怎么办？（十五)](https://www.dropbox.com/s/13ptsxqe0poi98z/16%E5%BC%95%E7%8B%BC%E5%85%A5%E5%AE%A4%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E4%BA%94%29.m4a?dl=0)  
+
+
+[17 落井下石怎么办？（十六)](https://www.dropbox.com/s/g2pawk47y5ll2rv/17%E8%90%BD%E4%BA%95%E4%B8%8B%E7%9F%B3%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E5%85%AD%29.m4a?dl=0)  
+
+[18 认清自负怎么办？（十六)](https://www.dropbox.com/s/569ygpt4t591rue/18%E8%AE%A4%E6%B8%85%E8%87%AA%E8%B4%9F%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%28%E5%8D%81%E4%B8%83%29.m4a?dl=0)
+
+
+
 
