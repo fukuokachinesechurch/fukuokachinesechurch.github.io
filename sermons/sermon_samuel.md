@@ -1,5 +1,5 @@
 ---
-title: 主日证道
+title: 撒母耳记 下 
 layout: default
 ---
 
@@ -41,7 +41,12 @@ layout: default
 
 [17 落井下石怎么办？（十六)](https://www.dropbox.com/s/g2pawk47y5ll2rv/17%E8%90%BD%E4%BA%95%E4%B8%8B%E7%9F%B3%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E5%85%AD%29.m4a?dl=0)  
 
-[18 认清自负怎么办？（十七)](https://www.dropbox.com/s/569ygpt4t591rue/18%E8%AE%A4%E6%B8%85%E8%87%AA%E8%B4%9F%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%28%E5%8D%81%E4%B8%83%29.m4a?dl=0)
+[18 认清自负怎么办？（十七)](https://www.dropbox.com/s/569ygpt4t591rue/18%E8%AE%A4%E6%B8%85%E8%87%AA%E8%B4%9F%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%28%E5%8D%81%E4%B8%83%29.m4a?dl=0)    
+
+[19 两军交战怎么办？ （十八）](https://www.dropbox.com/s/w5p9hud1j2qjp6x/19%E4%B8%A4%E5%86%9B%E4%BA%A4%E6%88%98%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E5%85%AB%29.m4a?dl=0)
+
+
+
 
 
 
