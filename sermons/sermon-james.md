@@ -11,3 +11,11 @@ layout: default
 
 [信心的省察：省察偏待人之罪 2:1-13](https://www.dropbox.com/s/6ayaece68t5lkra/%E5%81%8F%E5%BF%83%E5%BE%85%E4%BA%BA%E7%9A%84%E7%BD%AA%28%E9%9B%85%E4%BA%8C1-13%29.mp3?dl=0)
 
+[信心的省察：信心与行为 2:14-26](https://www.dropbox.com/s/eo5gaautytmxf1l/%E4%BF%A1%E5%BF%83%E4%B8%8E%E8%A1%8C%E4%B8%BA%28%E9%9B%85%E4%BA%8C14-26%29.m4a?dl=0)
+
+### 第三章
+
+[国度的智慧：善用言语的智慧 3:1-12](https://www.dropbox.com/s/blyutf4etwb42kc/%E5%9B%BD%E5%BA%A6%E7%9A%84%E6%99%BA%E6%85%A7%EF%BC%9A%E5%96%84%E7%94%A8%E8%A8%80%E8%AF%AD%E7%9A%84%E6%99%BA%E6%85%A7.m4a?dl=0)
+
+
+
