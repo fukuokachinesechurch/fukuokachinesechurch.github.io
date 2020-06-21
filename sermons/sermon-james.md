@@ -17,5 +17,11 @@ layout: default
 
 [国度的智慧：善用言语的智慧 3:1-12](https://www.dropbox.com/s/blyutf4etwb42kc/%E5%9B%BD%E5%BA%A6%E7%9A%84%E6%99%BA%E6%85%A7%EF%BC%9A%E5%96%84%E7%94%A8%E8%A8%80%E8%AF%AD%E7%9A%84%E6%99%BA%E6%85%A7.m4a?dl=0)
 
+[国度的智慧：十架智慧 3:13-18](https://www.dropbox.com/s/i83inbdtznr9o07/%E5%9B%BD%E5%BA%A6%E7%9A%84%E6%99%BA%E6%85%A7%EF%BC%9A%E5%8D%81%E6%9E%B6%E6%99%BA%E6%85%A7.m4a?dl=0)
+
+
+
+
+
 
 
