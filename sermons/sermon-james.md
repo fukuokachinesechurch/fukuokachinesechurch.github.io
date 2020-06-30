@@ -19,6 +19,12 @@ layout: default
 
 [国度的智慧：十架智慧 3:13-18](https://www.dropbox.com/s/i83inbdtznr9o07/%E5%9B%BD%E5%BA%A6%E7%9A%84%E6%99%BA%E6%85%A7%EF%BC%9A%E5%8D%81%E6%9E%B6%E6%99%BA%E6%85%A7.m4a?dl=0)
 
+### 第四章
+
+[国度的智慧：战胜私欲的智慧 4:1-5](https://www.dropbox.com/s/s2ck771rjyaae4t/%E5%9B%BD%E5%BA%A6%E7%9A%84%E6%99%BA%E6%85%A7%EF%BC%9A%E6%88%98%E8%83%9C%E7%A7%81%E6%AC%B2%E7%9A%84%E6%99%BA%E6%85%A7.m4a?dl=0)
+
+
+
 
 
 
