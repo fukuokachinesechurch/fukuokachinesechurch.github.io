@@ -45,7 +45,9 @@ layout: default
 
 [19 两军交战怎么办？ （十八）](https://www.dropbox.com/s/w5p9hud1j2qjp6x/19%E4%B8%A4%E5%86%9B%E4%BA%A4%E6%88%98%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E5%85%AB%29.m4a?dl=0)
 
-[20 恩恩怨怨怎么办？ （十九）](https://www.dropbox.com/s/27bbisr1hxhti0t/20%E6%81%A9%E6%81%A9%E6%80%A8%E6%80%A8%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E4%B9%9D%29.m4a?dl=0)
+[20 恩恩怨怨怎么办？ （十九）](https://www.dropbox.com/s/27bbisr1hxhti0t/20%E6%81%A9%E6%81%A9%E6%80%A8%E6%80%A8%E6%80%8E%E4%B9%88%E5%8A%9E%28%E5%8D%81%E4%B9%9D%29.m4a?dl=0)。
+
+[21 留后遗症怎么办？ （二十）](https://www.dropbox.com/s/62dqfpmctycxx92/21%E7%95%99%E5%90%8E%E9%81%97%E7%97%87%E6%80%8E%E4%B9%88%E5%8A%9E%28%E4%BA%8C%E5%8D%81%29.mp3?dl=0)
 
 
 
