@@ -23,6 +23,10 @@ layout: default
 
 [国度的智慧：战胜私欲的智慧 4:1-5](https://www.dropbox.com/s/s2ck771rjyaae4t/%E5%9B%BD%E5%BA%A6%E7%9A%84%E6%99%BA%E6%85%A7%EF%BC%9A%E6%88%98%E8%83%9C%E7%A7%81%E6%AC%B2%E7%9A%84%E6%99%BA%E6%85%A7.m4a?dl=0)
 
+[国度的智慧：向神回转的智慧 4:6-12](https://www.dropbox.com/s/imypicrhw1iu84d/%E5%9B%BD%E5%BA%A6%E7%9A%84%E6%99%BA%E6%85%A7%EF%BC%9A%E5%90%91%E7%A5%9E%E5%9B%9E%E8%BD%AC%E7%9A%84%E6%99%BA%E6%85%A7.m4a?dl=0)
+
+
+
 
 
 
