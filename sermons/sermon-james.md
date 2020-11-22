@@ -25,9 +25,9 @@ layout: default
 
 [国度的智慧：向神回转的智慧 4:6-12](https://www.dropbox.com/s/imypicrhw1iu84d/%E5%9B%BD%E5%BA%A6%E7%9A%84%E6%99%BA%E6%85%A7%EF%BC%9A%E5%90%91%E7%A5%9E%E5%9B%9E%E8%BD%AC%E7%9A%84%E6%99%BA%E6%85%A7.m4a?dl=0)
 
+### 第五章
 
-
-
+[国度的智慧：不可因财富而骄横 5:1-6](https://www.dropbox.com/home/%E9%9B%85%E5%90%84%E4%B9%A6%E6%9F%A5%E7%BB%8F/%E7%AC%AC%E4%BA%94%E7%AB%A0?preview=501%E4%B8%8D%E5%8F%AF%E5%9B%A0%E8%B4%A2%E5%AF%8C%E8%80%8C%E9%AA%84%E6%A8%AA(%E4%BA%941-6).m4a)
 
 
 
