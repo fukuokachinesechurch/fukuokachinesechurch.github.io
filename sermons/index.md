@@ -9,4 +9,4 @@ layout: default
 
 [雅各书](https://fukuokachinesechurch.github.io/sermons/sermon-james)  
 
-[启示录](https://fukuokachinesechurch.github.io/sermons/revelation)  
+[启示录](https://fukuokachinesechurch.github.io/sermons/sermon-revelation)  
