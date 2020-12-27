@@ -29,13 +29,9 @@ layout: default
 
 [国度的智慧：追求属天的财富 5:1-6](https://www.dropbox.com/s/wsvzv2457tosogd/09%E8%BF%BD%E6%B1%82%E5%B1%9E%E5%A4%A9%E7%9A%84%E8%B4%A2%E5%AF%8C%28%E4%BA%941-6%29.mp4?dl=0)
 
-
 [国度的智慧：恒久忍耐的智慧 5:7-12](https://www.dropbox.com/s/a6x0eyhyxa4vhbu/10%E6%81%92%E4%B9%85%E5%BF%8D%E8%80%90%E7%9A%84%E6%99%BA%E6%85%A7%28%E4%BA%947-12%29.mp4?dl=0)
 
-
 [国度的智慧：恳切祷告的智慧 5:13-20](https://www.dropbox.com/s/k9qhqs29q6vor0h/11%E6%81%B3%E5%88%87%E7%A5%B7%E5%91%8A%E7%9A%84%E6%99%BA%E6%85%A7%28%E4%BA%9413-20%29.mp4?dl=0)
-
-
 
 
 
