@@ -5,4 +5,14 @@ layout: default
 
 ## 启示录
 
-[配守敬拜的“罪犯” 5](https://www.dropbox.com/s/6q6z4p3k26ru18e/%E9%85%8D%E5%8F%97%E6%95%AC%E6%8B%9C%E7%9A%84%E2%80%9C%E7%BD%AA%E7%8A%AF%E2%80%9D%28%E5%90%AF%E4%BA%94%29.m4a?dl=0)
+[01读启示录难吗 (1章 1-9)](https://drive.google.com/file/d/1vQpE8BW6HSwm5YWRzHCAwUD3ZVyX0xml/view?usp=sharing)
+
+[02如何见主显现 (1章 10-20)](https://drive.google.com/file/d/1ReI1LnYEe5raWc8NXDAVchqv8WARR8NR/view?usp=sharing)
+
+[03他在教会中行走 (2章 1-7)](https://drive.google.com/file/d/1hmrl9AG1-ySHVNSfr6pLqxDVGPwk9M6a/view?usp=sharing)
+
+[04务要至死忠心 (2章 8-11)](https://drive.google.com/file/d/1sw7lZV4sm9-5LXyQRpOq062BgMipmaCO/view?usp=sharing)
+
+[05主有两刃利剑 (2章 12-17)](https://drive.google.com/file/d/1wRSncRsGWghFBf-cxhT1K9Ru734oxd8c/view?usp=sharing)
+
+[06主的救赎&审判 (2章 18-29)](https://drive.google.com/file/d/1uBXP4DSACu7SrlQO_5Y10pjiQogBDd1f/view?usp=sharing)

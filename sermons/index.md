@@ -8,3 +8,5 @@ layout: default
 [马太福音](https://fukuokachinesechurch.github.io/sermons/sermon_matthew)  
 
 [雅各书](https://fukuokachinesechurch.github.io/sermons/sermon-james)  
+
+[启示录](https://fukuokachinesechurch.github.io/sermons/revelation)  
