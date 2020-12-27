@@ -1,5 +1,5 @@
 ---
-title:年末感恩证道 
+title: 年末感恩证道
 layout: default
 ---
 

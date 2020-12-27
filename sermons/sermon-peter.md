@@ -1,5 +1,5 @@
 ---
-title:彼得前书 
+title: 彼得前书
 layout: default
 ---
 

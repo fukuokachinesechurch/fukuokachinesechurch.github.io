@@ -1,5 +1,5 @@
 ---
-title:撒母耳记下 
+title: 撒母耳记下
 layout: default
 ---
 
