@@ -3,7 +3,7 @@ title: 启示录
 layout: default
 ---
 
-## 启示录
+### 启示录
 
 [01读启示录难吗 (1章 1-9)](https://drive.google.com/file/d/1vQpE8BW6HSwm5YWRzHCAwUD3ZVyX0xml/view?usp=sharing)
 
@@ -16,3 +16,4 @@ layout: default
 [05主有两刃利剑 (2章 12-17)](https://drive.google.com/file/d/1wRSncRsGWghFBf-cxhT1K9Ru734oxd8c/view?usp=sharing)
 
 [06主的救赎&审判 (2章 18-29)](https://drive.google.com/file/d/1uBXP4DSACu7SrlQO_5Y10pjiQogBDd1f/view?usp=sharing)
+
