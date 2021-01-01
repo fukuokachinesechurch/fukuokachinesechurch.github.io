@@ -10,10 +10,13 @@ layout: default
 [2020年 弟兄姐妹福音见证](https://fukuokachinesechurch.github.io/witness/2020)
 
 [2019年 与主同行&重建生命(路14:25-35) ](https://share.weiyun.com/rjNVR1WQ)
+
 [2019年 弟兄姐妹福音见证](https://fukuokachinesechurch.github.io/witness/2019)
 
 [2018年 围绕着我们的云彩——纪念教会植堂九周年 ](https://share.weiyun.com/5y7sDA3)
+
 [2018年 感恩从岁首到年终 ](https://share.weiyun.com/52ZPnHz)
+
 [2018年 弟兄姐妹福音见证](https://fukuokachinesechurch.github.io/witness/2018)
 
 [2017年 弟兄姐妹福音见证](https://fukuokachinesechurch.github.io/witness/2017)
