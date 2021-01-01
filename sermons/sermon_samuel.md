@@ -49,6 +49,15 @@ layout: default
 
 [21 留后遗症怎么办？ （二十）](https://www.dropbox.com/s/62dqfpmctycxx92/21%E7%95%99%E5%90%8E%E9%81%97%E7%97%87%E6%80%8E%E4%B9%88%E5%8A%9E%28%E4%BA%8C%E5%8D%81%29.mp3?dl=0)
 
+[22 违约酿祸怎么办？ ](https://drive.google.com/file/d/1AtJ_U68kUw0fcqY-L6n02Pa8rwHWry9I/view?usp=sharing)
+
+[23蒙神救恩怎么办？ ](https://drive.google.com/file/d/1HIDUEqrkIBk-XWcLC8nFS3M8JzLVwCrj/view?usp=sharing)
+
+[24作美歌者怎么办？ ](https://drive.google.com/file/d/17K3j1cDj_2-8FER-13CJQvgYDJ8PqbDD/view?usp=sharing)
+
+[25作主精兵怎么办？ ](https://drive.google.com/file/d/1DlHeJW6dYCcMhiNODJmM40mQdLBAjg-c/view?usp=sharing)
+
+[26得享平安怎么？ ](https://drive.google.com/file/d/1WqqGP97spzAKr8IWtGeBvWEqf0fLUQIo/view?usp=sharing)
 
 
 

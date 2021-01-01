@@ -1,9 +1,9 @@
 ---
-title: 年末感恩证道
+title: 感谢神在2020年
 layout: default
 ---
 
-### 年末感恩证道
+### 感谢神在2020年
 
-[2020年_将祝福传给你 (林后二14)](https://drive.google.com/file/d/1-ceyRrqvqVuSleNkkVF0w1Nxqe5XAerj/view?usp=sharing)
+[感谢神在2020年 (林后二14)](https://drive.google.com/file/d/1-ceyRrqvqVuSleNkkVF0w1Nxqe5XAerj/view?usp=sharing)
 
