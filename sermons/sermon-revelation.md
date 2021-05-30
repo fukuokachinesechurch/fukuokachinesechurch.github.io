@@ -25,7 +25,6 @@ layout: default
 
 [10仰望天上的宝座(4章)](https://drive.google.com/file/d/1C44kj2ffP4lf-id9ZB0CwPj_MrYVxblo/view?usp=sharing)
 
-
 [11配得颂赞的羔羊(5章)](https://drive.google.com/file/d/1WdIfSvw8NkIS0afLgKuCPe5peUPHjyNr/view?usp=sharing)
 
 [12你看见了什么(6章1-8)](https://drive.google.com/file/d/1YJ_pIEHGc6RwlThAtQBxWMfHG79SflxU/view?usp=sharing)
