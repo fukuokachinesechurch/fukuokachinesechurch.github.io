@@ -15,6 +15,6 @@ layout: default
 
 [感谢神在2020年](https://fukuokachinesechurch.github.io/sermons/sermon-blessing) 
 
-[陈牧师讲道](https://fukuokachinesechurch.github.io/sermons/sermon-chen)
+[陈牧师讲道](https://fukuokachinesechurch.github.io/sermons/sermon_chen)
 
-[颜牧师讲道](https://fukuokachinesechurch.github.io/sermons/sermon-yan)
+[颜牧师讲道](https://fukuokachinesechurch.github.io/sermons/sermon_yan)
