@@ -3,6 +3,8 @@ title: 福音信息
 layout: default
 ---
 
+[出埃及记](https://fukuokachinesechurch.github.io/sermons/sermon_egypt)
+
 [撒母耳记 下](https://fukuokachinesechurch.github.io/sermons/sermon_samuel)  
 
 [马太福音](https://fukuokachinesechurch.github.io/sermons/sermon_matthew)  
@@ -18,3 +20,5 @@ layout: default
 [陈牧师讲道](https://fukuokachinesechurch.github.io/sermons/sermon_chen)
 
 [颜牧师讲道](https://fukuokachinesechurch.github.io/sermons/sermon_yan)
+
+[路得记](https://fukuokachinesechurch.github.io/sermons/sermon_ruth)
