@@ -3,7 +3,6 @@ title: 彼得前书
 layout: default
 ---
 
-###  第一章
 
 [01神的子民 1:1-2](https://drive.google.com/file/d/1AtL5OW1ZsSxD_rUD93k4mb-ucJAFIeP6/view?usp=sharing)
 
@@ -20,5 +19,3 @@ layout: default
 [07末世的战争和平](https://drive.google.com/file/d/1MNNfiqeEg37s0xQTEjIrONIA0Licut_C/view?usp=sharing)
 
 [08真正的大君王](https://drive.google.com/file/d/1DntQrQnJp4-VlnQl_JDRvyb8mf7qL1Ux/view?usp=sharing)
-
-[09在职场中服侍主](https://drive.google.com/file/d/11UOQ1xyJURUwsr1rbEGCNsVoFpOlY2Cd/view?usp=sharing)
