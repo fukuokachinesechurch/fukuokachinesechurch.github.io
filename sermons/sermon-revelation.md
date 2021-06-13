@@ -31,4 +31,6 @@ layout: default
 
 [12四印揭开看见什么(6章1-8)](https://drive.google.com/file/d/1dw0-6y6AYMJWeU4RBWBsq4NFhBrww-TM/view?usp=sharing)
 
+[13生产之难有主安慰(二9-17)](https://drive.google.com/file/d/14BulwlWU0KNv8AV9SN6DN99y2mCP2287/view?usp=sharing)
+
 
