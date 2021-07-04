@@ -14,3 +14,4 @@ layout: default
 
 [事奉的次序](https://drive.google.com/file/d/1peMfxCCTHvUTGpsz0m71wOu9e2xX96l9/view?usp=sharing)
 
+[靠主常常喜樂](https://drive.google.com/file/d/12t_X7DpETmcxLo3JcNkwKZCyjMDsUY1e/view?usp=sharing)
