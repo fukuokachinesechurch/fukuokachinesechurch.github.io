@@ -33,4 +33,8 @@ layout: default
 
 [13生产之难有主安慰(二9-17)](https://drive.google.com/file/d/14BulwlWU0KNv8AV9SN6DN99y2mCP2287/view?usp=sharing)
 
+[14蒙神保守的子民(启七)](https://drive.google.com/file/d/1L2npZWa7IarAbiyG1Z9XPL0WQlpRzpGQ/view?usp=sharing)
 
+[15聆听末次的号声(八)](https://drive.google.com/file/d/1IybXoSIb3Cr6JcNpmXT2al4sTaeSiLYJ/view?usp=sharing)
+
+[16第五号蝗灾的警告(九1-12)](https://drive.google.com/file/d/1JjYD9AlSxR1babUb9SUUtdratAn2JPHk/view?usp=sharing)

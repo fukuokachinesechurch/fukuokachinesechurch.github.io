@@ -21,3 +21,9 @@ layout: default
 [08真正的大君王](https://drive.google.com/file/d/1DntQrQnJp4-VlnQl_JDRvyb8mf7qL1Ux/view?usp=sharing)
 
 [09在职场中服侍主](https://drive.google.com/file/d/11UOQ1xyJURUwsr1rbEGCNsVoFpOlY2Cd/view?usp=sharing)
+
+[10蒙恩的共同体(彼前三1-7)](https://drive.google.com/file/d/1YW8x2K5LQeEgjq2MKICCASut7QwoEe6M/view?usp=sharing)
+
+[11蒙福的一生(彼前三8-12)](https://drive.google.com/file/d/1YClamQIW_MzPCjZoNjZOtC-gMujs8rpx/view?usp=sharing)
+
+[12蒙福的敬畏](https://drive.google.com/file/d/1zsqgVkmLI2YOJNST9SuCKnEwgb5DTVGF/view?usp=sharing)

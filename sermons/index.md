@@ -22,3 +22,5 @@ layout: default
 [颜牧师讲道](https://fukuokachinesechurch.github.io/sermons/sermon_yan)
 
 [路得记](https://fukuokachinesechurch.github.io/sermons/sermon_ruth)
+
+[戴继宗牧师讲道](https://fukuokachinesechurch.github.io/sermons/sermon_dai)

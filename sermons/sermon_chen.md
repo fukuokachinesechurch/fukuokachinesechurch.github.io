@@ -15,3 +15,9 @@ layout: default
 [事奉的次序](https://drive.google.com/file/d/1peMfxCCTHvUTGpsz0m71wOu9e2xX96l9/view?usp=sharing)
 
 [靠主常常喜樂](https://drive.google.com/file/d/12t_X7DpETmcxLo3JcNkwKZCyjMDsUY1e/view?usp=sharing)
+
+[野地的筵席 - 十個門訓的功課](https://drive.google.com/file/d/16CxYdoe8j9rWutKovobQu94D5QF-Z0l_/view?usp=sharing)
+
+[爲的是紀念我(二)](https://drive.google.com/file/d/1qyHa8aCcXIqzyKf2zx7MUeuEEvQJGCg_/view?usp=sharing)
+
+[心中的純正，手中的巧妙](https://drive.google.com/file/d/1NjPXVy209mOV_z0-HIsoSqS4DNQiYaq7/view?usp=sharing)
