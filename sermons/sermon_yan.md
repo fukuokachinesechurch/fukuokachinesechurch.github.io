@@ -15,3 +15,5 @@ layout: default
 [信徒彼此的合一(弗四1-6)](https://drive.google.com/file/d/1hyhYvwnugTTeH3BZPyaGK7CmU_62sF61/view?usp=sharing)
 
 [不能拦阻的福音(腓一12-20)](https://drive.google.com/file/d/1fhU9FeFbq11EP-ZCGFedg97RHi3YvisT/view?usp=sharing)
+
+[耶稣降生与人的关系](https://drive.google.com/file/d/1X0LCOxq1GIBTPq6bn7FQ0QM731W2l00l/view?usp=sharing)

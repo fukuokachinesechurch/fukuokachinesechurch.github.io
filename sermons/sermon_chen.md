@@ -21,3 +21,7 @@ layout: default
 [爲的是紀念我(二)](https://drive.google.com/file/d/1qyHa8aCcXIqzyKf2zx7MUeuEEvQJGCg_/view?usp=sharing)
 
 [心中的純正，手中的巧妙](https://drive.google.com/file/d/1NjPXVy209mOV_z0-HIsoSqS4DNQiYaq7/view?usp=sharing)
+
+[以馬内利](https://drive.google.com/file/d/12rb-rB6oUP78M7RR7ORvZZDfMS9qhUL9/view?usp=sharing)
+
+[面對巨人](https://drive.google.com/file/d/1kx-xEw8GoYcfqAyCP5LSFf5varupkfoI/view?usp=sharing)

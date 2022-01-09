@@ -27,3 +27,5 @@ layout: default
 [11蒙福的一生(彼前三8-12)](https://drive.google.com/file/d/1YClamQIW_MzPCjZoNjZOtC-gMujs8rpx/view?usp=sharing)
 
 [12蒙福的敬畏](https://drive.google.com/file/d/1zsqgVkmLI2YOJNST9SuCKnEwgb5DTVGF/view?usp=sharing)
+
+[13基督的得胜](https://drive.google.com/file/d/1Wa4HII4cLB4W7Uo6mPGtopASJ1uaTIYi/view?usp=sharing)
