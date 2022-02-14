@@ -38,3 +38,6 @@ layout: default
 [15聆听末次的号声(八)](https://drive.google.com/file/d/1IybXoSIb3Cr6JcNpmXT2al4sTaeSiLYJ/view?usp=sharing)
 
 [16第五号蝗灾的警告(九1-12)](https://drive.google.com/file/d/1JjYD9AlSxR1babUb9SUUtdratAn2JPHk/view?usp=sharing)
+
+[选出教会的执事(徒六1-7)](https://drive.google.com/file/d/1PUr8FiB64TxxbeUVr92bCMFMVgIM_BfN/view?usp=sharing)
+

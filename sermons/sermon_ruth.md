@@ -8,4 +8,6 @@ layout: default
 
 [02信心的选择(得一8-18)](https://drive.google.com/file/d/10Q3VfjO3yBylcHym7sVS5ZtdFL8IrCXA/view?usp=sharing)
 
+[全新的开始(得一19-22)](https://drive.google.com/file/d/1736gWumNpBVQalAM-xFr-Te9MlIb4UMX/view?usp=sharing)
+
 
