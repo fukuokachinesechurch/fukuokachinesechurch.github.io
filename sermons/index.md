@@ -3,6 +3,11 @@ title: 福音信息
 layout: default
 ---
 
+[2022/03/27 唯义人因信得生](https://drive.google.com/file/d/1RpfX0a40HMb9rSUnB3zxSmQAlmWY8aI9/view?usp=sharing)
+
+[2022/03/20 教会合一](https://drive.google.com/file/d/1gpWp8oFiZfSxzpgMAs3wuyxzhE6qspMz/view?usp=sharing)
+
+[2022/03/13 火炼的试验](https://drive.google.com/file/d/19uRuCsGbW8Y5F5MHPpzCT44XXAH5VLey/view?usp=sharing)
 
 [出埃及记](https://fukuokachinesechurch.github.io/sermons/sermon_egypt)
 
@@ -18,7 +23,7 @@ layout: default
 
 [圣诞布道会](https://fukuokachinesechurch.github.io/sermons/sermon-blessing) 
 
-[陈牧师讲道 2022/03/27update](https://fukuokachinesechurch.github.io/sermons/sermon_chen)
+[陈牧师讲道](https://fukuokachinesechurch.github.io/sermons/sermon_chen)
 
 [颜牧师讲道](https://fukuokachinesechurch.github.io/sermons/sermon_yan)    
 
