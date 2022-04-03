@@ -33,3 +33,5 @@ layout: default
 [14归来吧](https://drive.google.com/file/d/1BUIFVoszPQuHmr0znc8kX7JPQYTS7F4A/view?usp=sharing)
 
 [15盟约共同体(彼前四7-11)](https://drive.google.com/file/d/1XvqCMabnRYWV6cO4eCgJ9d1RQvdG5nSF/view?usp=sharing)
+
+[16火炼的试验](https://drive.google.com/file/d/19uRuCsGbW8Y5F5MHPpzCT44XXAH5VLey/view?usp=sharing)

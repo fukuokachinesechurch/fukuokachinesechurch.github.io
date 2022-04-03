@@ -25,3 +25,7 @@ layout: default
 [以馬内利](https://drive.google.com/file/d/12rb-rB6oUP78M7RR7ORvZZDfMS9qhUL9/view?usp=sharing)
 
 [面對巨人](https://drive.google.com/file/d/1kx-xEw8GoYcfqAyCP5LSFf5varupkfoI/view?usp=sharing)
+
+[神啊！袮爲何看著不理呢？](https://drive.google.com/file/d/1RpfX0a40HMb9rSUnB3zxSmQAlmWY8aI9/view?usp=sharing)
+
+[唯义人因信得生](https://drive.google.com/file/d/1RpfX0a40HMb9rSUnB3zxSmQAlmWY8aI9/view?usp=sharing)

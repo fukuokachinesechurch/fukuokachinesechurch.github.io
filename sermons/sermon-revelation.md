@@ -41,3 +41,5 @@ layout: default
 
 [选出教会的执事(徒六1-7)](https://drive.google.com/file/d/1PUr8FiB64TxxbeUVr92bCMFMVgIM_BfN/view?usp=sharing)
 
+[17第六号战争的警告(启九13-21)](https://drive.google.com/file/d/1KsBhKqdkKS2J9jXweZ7H4uHrQ_KNWtx1/view?usp=sharing)
+

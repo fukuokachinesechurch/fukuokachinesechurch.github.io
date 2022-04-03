@@ -3,7 +3,6 @@ title: 福音信息
 layout: default
 ---
 
-[01从痛苦中重生 20220201 ](https://drive.google.com/file/d/1Jz-Ad4ctL3wJUF4QaSR0cUvnGOrzwrN3/view?usp=sharing)
 
 [出埃及记](https://fukuokachinesechurch.github.io/sermons/sermon_egypt)
 

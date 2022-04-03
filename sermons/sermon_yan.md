@@ -17,3 +17,9 @@ layout: default
 [不能拦阻的福音(腓一12-20)](https://drive.google.com/file/d/1fhU9FeFbq11EP-ZCGFedg97RHi3YvisT/view?usp=sharing)
 
 [耶稣降生与人的关系](https://drive.google.com/file/d/1X0LCOxq1GIBTPq6bn7FQ0QM731W2l00l/view?usp=sharing)
+
+[信心的考验](https://drive.google.com/file/d/1gpWp8oFiZfSxzpgMAs3wuyxzhE6qspMz/view?usp=sharing)
+
+[马其顿呼声](https://drive.google.com/file/d/1FDFyZRFgy0thmlQ0Tablet6dYd3RcxFJ/view?usp=sharing)
+
+[教会合一](https://drive.google.com/file/d/1gpWp8oFiZfSxzpgMAs3wuyxzhE6qspMz/view?usp=sharing)
