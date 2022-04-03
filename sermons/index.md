@@ -18,9 +18,9 @@ layout: default
 
 [圣诞布道会](https://fukuokachinesechurch.github.io/sermons/sermon-blessing) 
 
-[陈牧师讲道](https://fukuokachinesechurch.github.io/sermons/sermon_chen)
+[陈牧师讲道 2022/03/27update](https://fukuokachinesechurch.github.io/sermons/sermon_chen)
 
-[颜牧师讲道](https://fukuokachinesechurch.github.io/sermons/sermon_yan)
+[颜牧师讲道](https://fukuokachinesechurch.github.io/sermons/sermon_yan)    
 
 [路得记](https://fukuokachinesechurch.github.io/sermons/sermon_ruth)
 
