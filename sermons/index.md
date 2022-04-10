@@ -2,6 +2,7 @@
 title: 福音信息
 layout: default
 ---
+[2022/04/03 大力天使&小书卷](https://drive.google.com/file/d/1WIN55fmCa456ZgiG4EpGx46xM2WWJTUQ/view?usp=sharing)
 
 [2022/03/27 唯义人因信得生](https://drive.google.com/file/d/1RpfX0a40HMb9rSUnB3zxSmQAlmWY8aI9/view?usp=sharing)
 
