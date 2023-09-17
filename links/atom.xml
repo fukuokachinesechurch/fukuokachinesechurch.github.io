@@ -9,7 +9,7 @@ layout: feed
  <link href="https://fukuokachinesechurch.github.io/links/atom.xml" rel="self"/>
  <link href="https://fukuokachinesechurch.github.io/links/blog"/>
  <updated>20230917</updated>
- <id>https://fukuokachinesechurch.github.io/links</id>
+ <id>https://fukuokachinesechurch.github.io/links/</id>
  <author>
    <name>Haihan Yu</name>
    
@@ -20,7 +20,7 @@ layout: feed
    <title>福岡華人教会</title>
    <link href="https://www.youtube.com/channel/UCGDP2iDdpRma1d3beQ6gwLg"/>
    <updated>20230917</updated>
-   <id>https://fukuokachinesechurch.github.io/links</id>
+   <id>https://fukuokachinesechurch.github.io/links/</id>
    <content type="html"><index class="html"></index>/content>
  </entry>
  {% endfor %}
