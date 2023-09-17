@@ -17,8 +17,8 @@ layout: feed
 
  {% for post in site.posts %}
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="http://haihan.github.io{{ post.url }}"/>
+   <title>{{ 福岡華人教会 }}</title>
+   <link href="http://haihan.github.io{{ https://www.youtube.com/channel/UCGDP2iDdpRma1d3beQ6gwLg }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://haihan.github.io/{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
