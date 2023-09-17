@@ -8,7 +8,7 @@ layout: feed
  <title>Hank Quinlan's Blog</title>
  <link href="http://haihan.github.io/blog/atom.xml" rel="self"/>
  <link href="http://haihan.github.io/blog"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <updated>20230917</updated>
  <id>http://haihan.github.io/blog</id>
  <author>
    <name>Haihan Yu</name>
@@ -17,11 +17,11 @@ layout: feed
 
  {% for post in site.posts %}
  <entry>
-   <title>{{ 福岡華人教会 }}</title>
-   <link href="http://haihan.github.io{{ https://www.youtube.com/channel/UCGDP2iDdpRma1d3beQ6gwLg }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://haihan.github.io/{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <title>福岡華人教会</title>
+   <link href="https://www.youtube.com/channel/UCGDP2iDdpRma1d3beQ6gwLg"/>
+   <updated>20230917</updated>
+   <id>http://haihan.github.io/blog</id>
+   <content type="html"><index class="html"></index>/content>
  </entry>
  {% endfor %}
  
