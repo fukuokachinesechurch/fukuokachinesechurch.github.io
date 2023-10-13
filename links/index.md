@@ -5,4 +5,4 @@ layout: default
 
 ## 链接
 
-[福冈华人教会](https://www.youtube.com/channel/UCGDP2iDdpRma1d3beQ6gwLg)
+[证道 赞美(youtube)](https://www.youtube.com/channel/UCGDP2iDdpRma1d3beQ6gwLg)
