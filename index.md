@@ -1,4 +1,4 @@
-
+---
 title: 日本福岡錫安華人宣道会東区堂
 layout: default
 ---
@@ -15,7 +15,7 @@ layout: default
 
 主日敬拜：每周日&nbsp;成人 10:30am   
 &nbsp;&nbsp;&nbsp;儿主  10:30am   
-查经祷告：每周四8:00pm-9:00pm 
+祷告会：每周四8:00pm-9:00pm 
 
 *目前聚会都以实体形式进行*
 
