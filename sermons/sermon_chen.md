@@ -2,7 +2,7 @@
 title: 陈牧师讲道
 layout: default
 ---
-## 陈牧师讲道
+## 陈牧师讲道 视频
 
 [得著智慧的心](https://drive.google.com/file/d/19JonX1RBQsIXOYGQlKsjovGcO2lWGVEt/view?usp=sharing)
 

@@ -2,7 +2,7 @@
 title: 颜牧师讲道
 layout: default
 ---
-## 颜牧师讲道
+## 颜牧师讲道 视频
 
 [靠主得胜(弗六)](https://drive.google.com/file/d/1AKqLItS6gbbv-yQb6-yzSvjkLwOJ46sy/view?usp=sharing)
 

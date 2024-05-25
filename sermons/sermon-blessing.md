@@ -3,7 +3,7 @@ title: 圣诞布道会
 layout: default
 ---
 
-### 圣诞布道会
+### 圣诞布道会 视频
 
 [感谢神在2020年 (林后二14)](https://drive.google.com/file/d/1-ceyRrqvqVuSleNkkVF0w1Nxqe5XAerj/view?usp=sharing)
 

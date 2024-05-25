@@ -3,7 +3,7 @@ title: 撒母耳记 下
 layout: default
 ---
 
-## 撒母耳记 下  
+## 撒母耳记 下  音频
 
 [01 面对考验怎么办？（一）](https://www.dropbox.com/s/wtald6cj74p46jz/01%E9%9D%A2%E5%AF%B9%E8%80%83%E9%AA%8C%E6%80%8E%E4%B9%88%E5%8A%9E%28%E4%B8%80%29.m4a?dl=0)   
 

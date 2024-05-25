@@ -2,7 +2,7 @@
 title: 彼得前书
 layout: default
 ---
-
+视频
 
 [01神的子民 1:1-2](https://drive.google.com/file/d/1AtL5OW1ZsSxD_rUD93k4mb-ucJAFIeP6/view?usp=sharing)
 

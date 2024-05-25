@@ -3,7 +3,7 @@ title: 启示录
 layout: default
 ---
 
-### 启示录
+### 启示录 视频
 
 [01读启示录难吗 (1章 1-9)](https://drive.google.com/file/d/1vQpE8BW6HSwm5YWRzHCAwUD3ZVyX0xml/view?usp=sharing)
 

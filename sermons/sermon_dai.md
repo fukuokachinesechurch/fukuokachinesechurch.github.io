@@ -3,7 +3,7 @@ title: 戴继宗牧师讲道
 layout: default
 ---
 
-## 戴继宗牧师讲道
+## 戴继宗牧师讲道 视频
 
 [使徒行传](https://drive.google.com/file/d/1xvCKM-lWCfldrhRRP3YE8YZBSahHjjXS/view?usp=sharing)
 

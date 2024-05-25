@@ -2,7 +2,7 @@
 title: 出埃及记
 layout: default
 ---
-## 出埃及记
+## 出埃及记 音频
 
 [01从痛苦中重生](https://drive.google.com/file/d/1Jz-Ad4ctL3wJUF4QaSR0cUvnGOrzwrN3/view?usp=sharing)
 
