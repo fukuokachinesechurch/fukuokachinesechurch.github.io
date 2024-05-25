@@ -31,10 +31,10 @@ layout: default
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d26568.969703324103!2d130.427295!3d33.654021!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35418ee373ac3501%3A0x19f367026a346980!2z5pel5pys44CB44CSODEzLTAwMTYg56aP5bKh55yM56aP5bKh5biC5p2x5Yy66aaZ5qSO5rWc77yS5LiB55uu77yW4oiS77yWIO-8lu-8je-8lg!5e0!3m2!1sja!2sus!4v1578038142031!5m2!1sja!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 
-[教会楼照片](https://drive.google.com/file/d/1ZbwvcxInTm-1WeoTRZDIPGllgn8tAVP-/view?usp=drive_link) 
+[教会楼照片 点击可看](https://drive.google.com/file/d/1ZbwvcxInTm-1WeoTRZDIPGllgn8tAVP-/view?usp=drive_link) 
 
 
-[教会房间照片](https://drive.google.com/file/d/1Oiu9JdpVVikeLkvMCqSPeHDL0P10ZO_a/view?usp=drive_link) 
+[教会房间照片 点击可看](https://drive.google.com/file/d/1Oiu9JdpVVikeLkvMCqSPeHDL0P10ZO_a/view?usp=drive_link) 
 
 
 最近的电车站　千早駅  
