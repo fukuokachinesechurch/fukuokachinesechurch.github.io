@@ -1,8 +1,8 @@
 ---
-title: 日本福岡錫安華人宣道会
+title: 基督教宣道會福岡教會(中文堂)
 layout: default
 ---
-<center><h1>日本福岡錫安華人宣道会</h1></center>
+<center><h1>基督教宣道會福岡教會(中文堂)</h1></center>
 
 
 
