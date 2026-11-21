@@ -27,7 +27,7 @@ layout: default
 邮箱：sxjgwh2005@gmail.com
 
 ---------------------------------------------------------------------------------------------------------
-教会地址:福岡県福岡市東区和白東五丁目13-1
+教会地址:福岡県福岡市東区和白東五丁目13-19
 
 <iframe 
   width="600" 
@@ -36,10 +36,10 @@ layout: default
   loading="lazy" 
   allowfullscreen 
   referrerpolicy="no-referrer-when-downgrade" 
-  src="https://www.google.com/maps?q=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%9D%B1%E5%8C%BA%E5%92%8C%E7%99%BD%E6%9D%B1%E4%BA%94%E4%B8%81%E7%9B%AE13-1&hl=ja&output=embed">
+  src="https://www.google.com/maps?q=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%9D%B1%E5%8C%BA%E5%92%8C%E7%99%BD%E6%9D%B1%E4%BA%94%E4%B8%81%E7%9B%AE13-19&hl=ja&output=embed">
 </iframe>
 
-[教会楼照片 点击可看](https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%9D%B1%E5%8C%BA%E5%92%8C%E7%99%BD%E6%9D%B1%E4%BA%94%E4%B8%81%E7%9B%AE13-1) 
+[教会楼照片 点击可看](https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%9D%B1%E5%8C%BA%E5%92%8C%E7%99%BD%E6%9D%B1%E4%BA%94%E4%B8%81%E7%9B%AE13-19) 
 
 [和白駅 电车](https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E7%99%BD%E9%A7%85) 
 
